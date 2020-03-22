@@ -1,0 +1,20 @@
+.heading {
+  color: green;
+  font-size: 30px;
+  margin: auto;
+  padding: 46px;
+}
+
+.outer-div {
+  padding: 20px 0px 10px 40px;
+  font-size: 30px;
+  margin: auto;
+}
+
+.label {
+  margin-right: 50px;
+}
+
+input {
+  height: 25px;
+}
